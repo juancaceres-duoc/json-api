@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Combo 10+1",
+    "descripcion": "Incluye 2 porciones de torta a elección y 2 cafés. Ideal para una tarde dulce.",
+    "precio": 9800,
+    "productos": ["2 Porciones de Torta", "2 Cafés"],
+    "validoHasta": "2025-07-31"
+  },
+  {
+    "nombre": "Combo Degustación",
+    "descripcion": "Ideal para los amantes del cheesecake. Incluye 2 porciones a elección, 2 palmeritas y bombones surtidos.",
+    "precio": 13500,
+    "productos": ["2 Porciones de Cheesecake a elección", "2 Palmeritas", "Bombones Surtidos"],
+    "validoHasta": "2025-07-31"
+  },
+  {
+    "nombre": "Combo Familiar",
+    "descripcion": "Ideal para una tarde en familia. Incluye 3 porciones de torta, 3 porciones de cheesecake y 4 jugos naturales.",
+    "precio": 16500,
+    "productos": ["3 Porciones de Torta", "3 Porciones de Cheesecake", "4 Jugos Naturales"],
+    "validoHasta": "2025-08-15"
+  },
+  {
+    "nombre": "Combo Desayuno Dulce",
+    "descripcion": "Perfecto para comenzar el día. Incluye 1 berlin y 1 café caliente.",
+    "precio": 15000,
+    "productos": ["1 Berlín Grande", "1 Café"],
+    "validoHasta": "2025-07-20"
+  },
+  {
+    "nombre": "Combo Romántico",
+    "descripcion": "Un detalle perfecto para compartir. Incluye 2 porciones de cheesecake de frambuesa, bombones surtidos y 2 chocolates calientes.",
+    "precio": 18000,
+    "productos": ["2 Porciones de Cheesecake de Frambuesa", "Bombones surtidos", "2 Chocolates Calientes"],
+    "validoHasta": "2025-08-10"
+  }
+]
