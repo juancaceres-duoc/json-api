@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "nombre": "Combo Desayuno Dulce",
     "descripcion": "Incluye 1 berlín y 1 café.",
     "precio": 2000,
@@ -7,13 +8,15 @@
     "validoHasta": "2025-07-20"
   },
   {
+    "id": 2,
     "nombre": "Combo Degustación",
     "descripcion": "Incluye 2 porciones de Cheesecake a elección, galletas surtidas y bombones surtidos.",
     "precio": 15000,
     "productos": ["2 Porciones de Cheesecake", "Galletas Surtidas", "Bombones Surtidos"],
     "validoHasta": "2025-07-31"
   },
-   {
+  {
+    "id": 3,
     "nombre": "Combo Familiar",
     "descripcion": "Incluye 3 porciones de torta, 3 porciones de cheesecake y 4 jugos naturales.",
     "precio": 23500,
@@ -21,13 +24,15 @@
     "validoHasta": "2025-08-15"
   },
   {
+    "id": 4,
     "nombre": "Combo 10+1",
     "descripcion": "Incluye 2 porciones de torta a elección y 2 cafés.",
     "precio": 9000,
     "productos": ["2 Porciones de Torta", "2 Café"],
     "validoHasta": "2025-07-31"
-  },     
+  },
   {
+    "id": 5,
     "nombre": "Combo Romántico",
     "descripcion": "Incluye 2 porciones de cheesecake de frambuesa, bombones surtidos y 2 chocolates calientes.",
     "precio": 18000,
